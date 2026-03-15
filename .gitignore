@@ -1,0 +1,10 @@
+# Portfolio Gitignore
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+.vscode/
+.idea/
+node_modules/
+vendor/
